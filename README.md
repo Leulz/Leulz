@@ -5,3 +5,5 @@ many things, from monitoring concepts to Kubernetes clusters management. As a si
 [smartdiff](https://github.com/Leulz/smartdiff) project.
 
 Along with computer-related hobbies like programming, I also really love Philosophy and Japan. Eclectic, I know.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leulz)](https://github.com/anuraghazra/github-readme-stats)
